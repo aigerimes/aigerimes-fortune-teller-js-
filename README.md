@@ -1,1 +1,1 @@
-# aigerimes-fortune-teller-js-
+# aigerimes
